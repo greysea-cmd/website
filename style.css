@@ -186,6 +186,19 @@ h2 {
     color: #2563eb;
 }
 
+.edu-school a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s, border-bottom 0.2s;
+    border-bottom: 1px solid transparent;
+}
+
+.edu-school a:hover {
+    color: #1d4ed8;
+    border-bottom: 1px solid #2563eb;
+}
+
 .edu-desc {
     font-size: 0.88rem;
     color: #475569;
@@ -248,6 +261,19 @@ h2 {
 .exp-company {
     font-weight: 500;
     color: #2563eb;
+}
+
+.exp-company a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s, border-bottom 0.2s;
+    border-bottom: 1px solid transparent;
+}
+
+.exp-company a:hover {
+    color: #1d4ed8;
+    border-bottom: 1px solid #2563eb;
 }
 
 .exp-desc {
