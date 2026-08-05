@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gracyphago.com.np/sitemap.xml
